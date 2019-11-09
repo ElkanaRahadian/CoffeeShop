@@ -17,5 +17,5 @@ Coffeeshop Application using Java
 1. Create a new Java Project
 
 ## Usage
-Practice using inheritance, polymorphism, and overloading functions
+OOP inheritance, polymorphism, and overloading functions
 
