@@ -14,7 +14,7 @@ Java Object Oriented Programming
 - Super
 
 ## Setup & Installation 
-1. Create a new Java Project
+Create a new Java Project
 
 ## Usage
 OOP inheritance, polymorphism, and overloading functions
