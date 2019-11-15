@@ -17,5 +17,5 @@ Java Object Oriented Programming (OOP) :
 Create a new Java Project
 
 ## Usage
-OOP inheritance, polymorphism, and overloading functions
+OOP inheritance, polymorphism, and overloading function
 
