@@ -4,7 +4,7 @@
 Coffeeshop Application using Java
 
 ## Features
-Java Object Oriented Programming :
+Java Object Oriented Programming (OOP) :
 - Encapsulation
 - Inheritance
 - Polymorphism
