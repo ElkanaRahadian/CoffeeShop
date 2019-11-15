@@ -5,13 +5,14 @@ Coffeeshop Application using Java Programming
 
 ## Features
 Java Object Oriented Programming (OOP) :
-- Encapsulation
-- Inheritance
-- Polymorphism
 - Constructors
 - Setter
 - Getter
 - Super
+- Encapsulation
+- Inheritance
+- Polymorphism
+
 
 ## Setup & Installation 
 Create a new Java Project
