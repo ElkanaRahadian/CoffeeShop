@@ -1,7 +1,7 @@
 # CoffeeShop
 
 ## Overview
-Coffeeshop App using Java Programming
+Coffeeshop Application using Java Programming
 
 ## Features
 Use of Java OOP :
