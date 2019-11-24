@@ -15,7 +15,7 @@ Use of Java Object Oriented Programming (OOP):
 
 
 ## Setup & Installation 
-Create a new Java Project
+Create new Java Project
 
 ## Usage
 OOP Polymorphism, Inheritance, and Overloading Function
