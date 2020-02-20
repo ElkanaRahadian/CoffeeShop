@@ -1,7 +1,7 @@
 # CoffeeShop
 
 ## Overview
-Coffeeshop Application created using Java
+Coffeeshop App created using Java
 
 ## Features
 Use of Java Object Oriented Programming :
