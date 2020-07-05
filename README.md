@@ -1,10 +1,10 @@
 # CoffeeShop
 
 ## Overview
-Coffeeshop Application using Java
+Coffeeshop App using Java
 
 ## Features
-Use of Java Object Oriented Programming :
+Use of Java Object Oriented Programming (OOP) :
 - Constructors
 - Setter
 - Getter
